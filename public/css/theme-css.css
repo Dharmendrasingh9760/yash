@@ -1,0 +1,29 @@
+    /* Homepage Dark Theme CSS:
+    ============================================= */
+    
+    .dark {
+        background: #343434 !important;
+    }
+    
+     :root {
+        --wtxt: #fff;
+        --btxt: #000;
+        --bluetxt: #001F67;
+        --h-top-bg: #FFE9D3;
+        --blue-bg: #001F67;
+        --w-bg: #fff;
+        --bg1: #FFF3E7;
+        --bg2: #EEF7FF;
+    }
+    
+     :root .dark {
+        --wtxt: #fff;
+        --btxt: #fff;
+        --bluetxt: #fff;
+        --h-top-bg: #585757;
+        --blue-bg: #424242;
+        --w-bg: #2b2c2d;
+        --bg1: #9d8e7e;
+        --bg2: #667a8c;
+    }
+    /* ==================================================================================== */
