@@ -1,0 +1,1 @@
+[23-Oct-2024 10:35:37 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::organizationalStructure() in /home/wurz5640imm6/public_html/nagarpalika_sitapur/app/Http/Controllers/HomeController.php on line 33
